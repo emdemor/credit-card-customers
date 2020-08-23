@@ -1,4 +1,9 @@
+![title](https://raw.githubusercontent.com/emdemor/credit-card-customers/master/source/banner.png)
+
+
 # Credit Card Customer Segmentation
+
+
 
 It is useful to identify customer segments with similar behaviors to plan the choice of specific marketing strategies. This type of information gives companies the ability to decrease the likelihood of losses, increase profits and improve the consumer experience through.
 
